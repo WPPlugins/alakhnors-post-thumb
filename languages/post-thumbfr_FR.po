@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-04-08 00:58+0100\n"
+"Last-Translator: alakhnor <alakhnor@wanadoo.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: c:\\wamp\\www\\wordpress21\\wp-content\\plugins\\post-thumb\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: c:\\_web\\post-thumb\\\\post-thumb revisited\n"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-functions.php:46
+#: revisited/post-thumb/post-thumb-functions.php:116
+msgid "No image found"
+msgstr "Image introuvable"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-functions.php:629
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-functions.php:641
+#: revisited/post-thumb/post-thumb-functions.php:824
+#: revisited/post-thumb/post-thumb-functions.php:836
+msgid "Directory: "
+msgstr "Répertoire : "
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-functions.php:629
+#: revisited/post-thumb/post-thumb-functions.php:824
+msgid "may not be writeable."
+msgstr "n'est peut être pas accessible en écriture."
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-functions.php:641
+#: revisited/post-thumb/post-thumb-functions.php:836
+msgid "does not exist!"
+msgstr "n'existe pas !"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:60
+#: revisited/post-thumb/post-thumb-functions.php:849
+msgid "Resize width must be a number"
+msgstr "La largeur de redimensionnement doit être un nombre"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:161
+#: revisited/post-thumb/post-thumb-functions.php:855
+msgid "Resize height must be a number"
+msgstr "La hauteur de redimensionnement doit être un nombre"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:110
+#: revisited/post-thumb/post-thumb-functions.php:861
+msgid "Video default image not found on server."
+msgstr "Image par défaut des vidéos :"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-functions.php:698
+#: revisited/post-thumb/post-thumb-functions.php:865
+msgid "Default image not found on server."
+msgstr "L'image par défaut n'a pas été trouvée sur le serveur."
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-functions.php:629
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-functions.php:641
+#: revisited/post-thumb/post-thumb-includes.php:388
+msgid "Direct Link"
+msgstr "Lien direct : "
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:39
+#: revisited/post-thumb/post-thumb-includes.php:496
+msgid "Error in file: "
+msgstr "Error in file: "
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:39
+#: revisited/post-thumb/post-thumb-includes.php:496
+msgid " on line: "
+msgstr " on line: "
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:39
+#: revisited/post-thumb/post-thumb-includes.php:496
+msgid ".<br />The Wordpress file \"rss-functions.php\" or \"rss.php\" could not be included."
+msgstr ".<br />The Wordpress file \"rss-functions.php\" or \"rss.php\" could not be included."
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:138
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:139
+#: revisited/post-thumb/post-thumb-includes.php:581
+#: revisited/post-thumb/post-thumb-includes.php:582
+#: revisited/post-thumb/post-thumb-includes.php:961
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "View all posts filed under %s"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:252
+#: revisited/post-thumb/post-thumb-includes.php:595
+msgid "Category"
+msgstr "Catégorie"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:179
+#: revisited/post-thumb/post-thumb-includes.php:609
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "Feed for all posts filed under %s"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:252
+#: revisited/post-thumb/post-thumb-includes.php:683
+#: revisited/widgets/functions.php:199
+msgid "Categories"
+msgstr "Catégories"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:267
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:269
+#: revisited/post-thumb/post-thumb-includes.php:698
+#: revisited/post-thumb/post-thumb-includes.php:700
+#: revisited/post-thumb/post-thumb-includes.php:1026
+msgid "No categories"
+msgstr "No categories"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:329
+#: revisited/post-thumb/post-thumb-includes.php:760
+#, php-format
+msgid "Last updated: %s"
+msgstr "Last updated: %s"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:388
+#: revisited/post-thumb/post-thumb-includes.php:816
+msgid "Bookmarks"
+msgstr "Bookmarks"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:185
+#: revisited/post-thumb/post-thumb-options.php:85
+msgid "Update error:"
+msgstr "Erreur de mise à jour"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:78
+#: revisited/post-thumb/post-thumb-options.php:87
+msgid "Settings saved"
+msgstr "Configuration sauvegardée"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:63
+#: revisited/post-thumb/post-thumb-options.php:95
+msgid "Post Thumbnail Options"
+msgstr "Post Thumbnail Options"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:68
+#: revisited/post-thumb/post-thumb-options.php:100
+msgid "Location settings"
+msgstr "Options d'emplacement"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:88
+#: revisited/post-thumb/post-thumb-options.php:107
+msgid "Base path"
+msgstr "Chemin du domaine sur le serveur"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:88
+#: revisited/post-thumb/post-thumb-options.php:112
+msgid "Absolute path to website. For example, /httpdocs or /yourdomain.com. Used to find location of thumbnails on server. http://yourdomain.com/images/pth/thumb_picture.jpg would actually be /httpdocs/images/pth/thumb_picture.jpg."
+msgstr "Chemin absolu du site. Par exemple, /httpdocs ou /yourdomain.com. Utilisé pour retrouver l'emplacement des thumbnails sur le serveur. L'adresse http://yourdomain.com/images/pth/thumb_picture.jpg se traduirait en /httpdocs/images/pth/thumb_picture.jpg."
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:84
+#: revisited/post-thumb/post-thumb-options.php:116
+msgid "Full domain name"
+msgstr "Nom de domaine complet"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:74
+#: revisited/post-thumb/post-thumb-options.php:121
+msgid "Full domain name. Includes the http://."
+msgstr "Nom de domaine complet, incluant le http://."
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:92
+#: revisited/post-thumb/post-thumb-options.php:125
+msgid "Folder name"
+msgstr "Répertoire qui contiendra les thumbnails"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:76
+#: revisited/post-thumb/post-thumb-options.php:129
+msgid "Set the relative path to thumbs. Make sure directory exists and is writable."
+msgstr "Définit le chemin relatif vers les thumbnails. Assurez-vous que le répertoire existe et peut être modifié."
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:80
+#: revisited/post-thumb/post-thumb-options.php:133
+msgid "Default image"
+msgstr "Image par défaut"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:115
+#: revisited/post-thumb/post-thumb-options.php:139
+msgid "The location of the default image to use if no picture can be found. Enter in the relative url, eg. images/default.jpg"
+msgstr "L'emplacement de l'image par défaut à utiliser si aucune référence d'image n'est trouvée. Entrez l'adresse relative depuis le site, par exemple, images/default.jpg"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:132
+#: revisited/post-thumb/post-thumb-options.php:141
+msgid "If category names are used, this will override Default Image and Default Image for Videos"
+msgstr "Si les noms de catégories sont utilisés, le nouveau nom constitué remplacera l'image par défaut des images et l'image par défaut des vidéos."
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-includes.php:252
+#: revisited/post-thumb/post-thumb-options.php:145
+msgid "Use Category Names?"
+msgstr "Utiliser les noms de catégories ?"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:97
+#: revisited/post-thumb/post-thumb-options.php:150
+msgid "Video image settings"
+msgstr "Options des Vidéos"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:125
+#: revisited/post-thumb/post-thumb-options.php:155
+msgid "If you want to scan a post for a video and use a default image. Uses regex to scan for video."
+msgstr "Sélectionnez si vous souhaitez scanner les vidéos dans les articles et afficher une image par défaut. Le scan utilisera le RegEx comme masque de recherche."
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:106
+#: revisited/post-thumb/post-thumb-options.php:159
+msgid "Video regex:"
+msgstr "RegEx pour les vidéos :"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:110
+#: revisited/post-thumb/post-thumb-options.php:163
+msgid "Video default image:"
+msgstr "Image par défaut des vidéos :"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:115
+#: revisited/post-thumb/post-thumb-options.php:169
+msgid "Stream Video image settings"
+msgstr "Options des flux Vidéo"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:144
+#: revisited/post-thumb/post-thumb-options.php:174
+msgid "If you want to scan a post for a stream video. Supports Youtube, Gvideo and Dailymotion. Will display a thumb for each specific source."
+msgstr "Sélection si vous souhaitez scanner les flux vidéos dans les articles et afficher une image par défaut. Accepte : Youtube, Gvideo and Dailymotion. Le thumbnail sera affiché en fonction de la source."
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:124
+#: revisited/post-thumb/post-thumb-options.php:178
+msgid "Stream Check:"
+msgstr "Vérification des flux vidéo :"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:129
+#: revisited/post-thumb/post-thumb-options.php:184
+msgid "Filename settings"
+msgstr "Options des noms de fichiers"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:159
+#: revisited/post-thumb/post-thumb-options.php:189
+msgid "Choose to put text before image name or after. Unchecking will put text before."
+msgstr "Sélectionner pour ajouter du texte après le nom de l'image pour constituer le nom du thumbnail. Désélectionner pour le mettre avant."
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:160
+#: revisited/post-thumb/post-thumb-options.php:190
+msgid "Choose text to append or prepend image with. Example: pthumb.yourimage.jpg"
+msgstr "Choix du texte à ajouter au nom de l'image pour constituer le nom du thumbnail. Exemple: pthumb.yourimage.jpg"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:139
+#: revisited/post-thumb/post-thumb-options.php:194
+msgid "Append"
+msgstr "Ajoute après"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:143
+#: revisited/post-thumb/post-thumb-options.php:198
+msgid "Append / Prepend text"
+msgstr "Texte à ajouter"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:148
+#: revisited/post-thumb/post-thumb-options.php:204
+msgid "Image settings"
+msgstr "Options des images"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:179
+#: revisited/post-thumb/post-thumb-options.php:209
+msgid "Choose your resize width and height. Will resize in proportion to original width and height. If you do not care about proportions, uncheck keep ratio."
+msgstr "Choisissez vos valeur de redimensionnement, largeur et hauteur. Elles seront utilisées pour redimensionner les images en proportion de l'original. Si vous ne souhaitez pas consever les proportions, désélectionnez l'option 'Conserver les proportions'."
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:157
+#: revisited/post-thumb/post-thumb-options.php:213
+msgid "Resize width"
+msgstr "Largeur de redimensionnement"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:161
+#: revisited/post-thumb/post-thumb-options.php:217
+msgid "Resize height"
+msgstr "Hauteur de redimensionnement"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:165
+#: revisited/post-thumb/post-thumb-options.php:221
+msgid "Keep ratio?"
+msgstr "Conserver les proportions ?"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:148
+#: revisited/post-thumb/post-thumb-options.php:227
+msgid "Highslide settings"
+msgstr "Options Highslide"
+
+# c:\wamp\www\wordpress21\wp-content\plugins\post-thumb/post-thumb-options.php:217
+#: revisited/post-thumb/post-thumb-options.php:231
+msgid "Use Highslide in posts?"
+msgstr "Utiliser Highslide dans les articles ?"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/post-thumb/post-thumb-options.php:237
+msgid "Detect wordTube Media?"
+msgstr "Détection des média wordTube ?"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/post-thumb/post-thumb-options.php:243
+msgid "Detect Youtube video?"
+msgstr "Détection des vidéos Youtube ?"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/post-thumb/post-thumb-options.php:251
+msgid "Youtube width"
+msgstr "Largeur vignette Youtube"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/post-thumb/post-thumb-options.php:255
+msgid "Youtube height"
+msgstr "Hauteur vignette Youtube"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:185
+#: revisited/post-thumb/post-thumb-options.php:262
+msgid "Update"
+msgstr "Mise à jour"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:36
+#: revisited/widgets/functions.php:94
+msgid "Slideshow"
+msgstr "Slideshow"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:75
+#: revisited/widgets/functions.php:128
+#: revisited/widgets/functions.php:182
+#: revisited/widgets/functions.php:231
+#: revisited/widgets/functions.php:275
+#: revisited/widgets/functions.php:343
+msgid "Title:"
+msgstr "Titre :"
+
+# c:\wamp\www\test211\wp-content\plugins\post-thumb/post-thumb-options.php:165
+#: revisited/widgets/functions.php:76
+#: revisited/widgets/functions.php:129
+#: revisited/widgets/functions.php:183
+msgid "Keep ratio"
+msgstr "Conserver les proportions ?"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:77
+#: revisited/widgets/functions.php:130
+msgid "Width"
+msgstr "Largeur"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:78
+#: revisited/widgets/functions.php:131
+msgid "Height"
+msgstr "Hauteur"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:79
+msgid "Random limit"
+msgstr "Limite de recherche"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:80
+msgid "Show title"
+msgstr "Montrer titre"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:146
+msgid "Recent posts"
+msgstr "Articles récents"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:184
+#: revisited/widgets/functions.php:344
+msgid "Number of posts"
+msgstr "Nombre d'articles"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:185
+msgid "Show only category"
+msgstr "Ne montrer que catégorie"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:186
+msgid "HS effect"
+msgstr "Effet HS"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:232
+msgid "Show post counts"
+msgstr "Montre nombre d'articles"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:233
+msgid "Show hierarchy"
+msgstr "Montrer hiérarchie"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:246
+msgid "Blogroll"
+msgstr "Blogoliste"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:290
+msgid "News"
+msgstr "Actualités"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:345
+msgid "Feed 1"
+msgstr "Feed 1"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:346
+msgid "Feed 2"
+msgstr "Feed 2"
+
+# c:\_web\post-thumb\\post-thumb
+#: revisited/widgets/functions.php:347
+msgid "Number of words"
+msgstr "Nombre de mots"
+
